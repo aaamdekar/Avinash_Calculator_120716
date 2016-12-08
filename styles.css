@@ -1,0 +1,39 @@
+
+body {
+    background-color: lightcyan;
+    color: #000;
+    width: 100%;
+    text-align: left ;
+}
+
+.calculator {
+    background-color: #ddd;
+    width: 375px;
+    height: 405px;
+    margin: 20px auto 20px auto;
+    border: solid 1px #000;
+    box-shadow: 10px 10px 5px #888888;
+}
+
+.result {
+    margin: 10px;
+    width: 355px;
+    height: 75px;
+   
+}
+
+button {
+    font-size: small;
+    font-weight: bold;
+    width: 75px;
+    margin: 5px;
+}
+span{
+   font-size: small; 
+    font-weight: bold;
+}
+
+.result {
+    text-align: left;
+    font-size: 55px;
+}
